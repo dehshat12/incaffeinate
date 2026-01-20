@@ -1,5 +1,7 @@
 # InCaffeinate
 
+![Preview](Preview/preview2.png)
+
 A simple macOS menu bar utility to prevent your Mac from sleeping.
 
 
