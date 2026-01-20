@@ -56,6 +56,8 @@ Right-click the menu bar icon to access:
 - **1 hour** - For longer sessions
 - **Custom** - Set any duration up to 24 hours
 
+![Preview](Previews/timer.png)
+
 ## Settings
 
 Configure your preferences in the Settings window:
