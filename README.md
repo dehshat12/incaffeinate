@@ -63,6 +63,8 @@ Configure your preferences in the Settings window:
 - **Run on Login** - Automatically start when you log in
 - **Show Notifications** - Display alerts when timers expire
 
+![Preview](Previews/preview2.png)
+
 ## Requirements
 
 - macOS 14.6 or later
