@@ -48,6 +48,8 @@ Right-click the menu bar icon to access:
 - **Settings** - Configure startup and notification preferences
 - **Quit** - Exit the application
 
+![Preview](Previews/preview1.png)
+
 ### Timer Options
 - **15 minutes** - Quick short-term prevention
 - **30 minutes** - Default duration for most tasks
