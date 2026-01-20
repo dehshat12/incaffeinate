@@ -2,7 +2,7 @@
 
 A simple macOS menu bar utility to prevent your Mac from sleeping.
 
-![InCaffeinate](/path/to/app-icon.png)
+![InCaffeinate]
 
 ## Features
 
@@ -76,41 +76,6 @@ Configure your preferences in the Settings window:
 3. Select your development team in project settings
 4. Build (`Cmd+B`) or run (`Cmd+R`)
 
-## Distribution
-
-### App Store
-1. Archive the app: `Product → Archive`
-2. Upload to App Store Connect
-3. Submit for review
-
-### Direct Distribution
-1. Build for release
-2. Notarize the app
-3. Create DMG installer
-
-## Troubleshooting
-
-**App won't start**
-- Ensure you're running macOS 14.6 or later
-- Check that you've granted necessary permissions
-
-**Timer not working**
-- Make sure caffeinate is active before setting timer
-- Check system notifications are enabled
-
-**Menu bar icon missing**
-- Restart the app
-- Check System Preferences for menu bar visibility
-
-## Contributing
-
-Contributions are welcome! Please feel free to:
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-4. Open an issue for bugs or suggestions
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -120,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. [Open an issue](https://github.com/yourusername/InCaffeinate/issues)
+2. [Open an issue](https://github.com/dehshat12/InCaffeinate/issues)
 3. Contact the developer
 
 ---
