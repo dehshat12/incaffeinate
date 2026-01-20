@@ -16,7 +16,7 @@ A simple macOS menu bar utility to prevent your Mac from sleeping.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/InCaffeinate.git
+   git clone https://github.com/dehshat12/InCaffeinate.git
    cd InCaffeinate
    ```
 
@@ -60,13 +60,10 @@ Configure your preferences in the Settings window:
 
 - **Run on Login** - Automatically start when you log in
 - **Show Notifications** - Display alerts when timers expire
-- **Default Timer** - Choose your preferred preset duration
 
 ## Requirements
 
 - macOS 14.6 or later
-- Xcode 15.0 or later
-- Apple Developer account (for distribution)
 
 ## Building
 
